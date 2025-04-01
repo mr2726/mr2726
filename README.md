@@ -21,7 +21,6 @@ Hi! I’m a professional web and mobile developer with expertise in <b>React, Re
   <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/REST API-20232A?style=for-the-badge&logo=rest&logoColor=FFFFFF"/>
 </p>
 
 ### 💡 About Me  
