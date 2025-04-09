@@ -13,7 +13,6 @@ Hi! I’m a professional web and mobile developer with expertise in <b>React, Re
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=8CC84B"/>
-  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
